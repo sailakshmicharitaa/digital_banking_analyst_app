@@ -52,7 +52,7 @@ Data is structured similar to analytical datasets used in SQL environments
 The dataset is designed to reflect realistic digital banking scenarios
 
 Even though this is a lightweight application, the structure follows how real reporting systems are built.
-
+```
 Project Structure
 digital_banking_analyst_app/
 ├── app.py
@@ -68,7 +68,7 @@ digital_banking_analyst_app/
     ├── kpi_calculator.py
     └── charts.py
 
-
+```
 How to Run the Project
 Step 1: Install dependencies
 python -m pip install -r requirements.txt
